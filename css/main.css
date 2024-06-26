@@ -2210,11 +2210,11 @@ tbody tr:nth-child(odd) {
   }
 
   .quotes__select-nav {
-    background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
+    background: url(../imgs/arrows-select.svg) no-repeat right 0.625rem center;
   }
 
   .mobile__table-select {
-    background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
+    background: url(../imgs/arrows-select.svg) no-repeat right 0.625rem center;
   }
 }
 
