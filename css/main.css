@@ -357,7 +357,7 @@ input[list="languages"]::-webkit-calendar-picker-indicator {
 }
 
 .navigation__search:nth-child(2) {
-  background: url("../imgs/lang.svg") no-repeat right 0.625rem center;
+  background: url("imgs/lang.svg") no-repeat right 0.625rem center;
 }
 
 .navigation-mobile {
