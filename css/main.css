@@ -907,7 +907,7 @@ input[list="languages"]::-webkit-calendar-picker-indicator {
   -moz-appearance: none;
   appearance: none;
   padding: 0.375rem 1rem;
-  background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
+  background: url(../imgs/arrows-select.svg) no-repeat right 0.625rem center;
 }
 
 @media (min-width: 850px) {
@@ -2143,7 +2143,7 @@ tbody tr:nth-child(odd) {
   -moz-appearance: none;
   appearance: none;
   padding: 0.375rem 1rem;
-  background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
+  background: url(../imgs/arrows-select.svg) no-repeat right 0.625rem center;
 }
 
 .mobile__table-list {
