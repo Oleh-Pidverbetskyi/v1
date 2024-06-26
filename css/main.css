@@ -339,7 +339,7 @@ input[list="languages"]::-webkit-calendar-picker-indicator {
 }
 
 .navigation__search {
-  background: url("imgs/search.svg") no-repeat right 0.625rem center;
+  background: url("/imgs/search.svg") no-repeat right 0.625rem center;
   width: 2.5rem;
   -webkit-transition: width 0.4s ease-in-out;
   -o-transition: width 0.4s ease-in-out;
@@ -357,7 +357,7 @@ input[list="languages"]::-webkit-calendar-picker-indicator {
 }
 
 .navigation__search:nth-child(2) {
-  background: url("imgs/lang.svg") no-repeat right 0.625rem center;
+  background: url("/imgs/lang.svg") no-repeat right 0.625rem center;
 }
 
 .navigation-mobile {
@@ -907,7 +907,7 @@ input[list="languages"]::-webkit-calendar-picker-indicator {
   -moz-appearance: none;
   appearance: none;
   padding: 0.375rem 1rem;
-  background: url(imgs/arrows-select.svg) no-repeat right 0.625rem center;
+  background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
 }
 
 @media (min-width: 850px) {
@@ -2143,7 +2143,7 @@ tbody tr:nth-child(odd) {
   -moz-appearance: none;
   appearance: none;
   padding: 0.375rem 1rem;
-  background: url(imgs/arrows-select.svg) no-repeat right 0.625rem center;
+  background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
 }
 
 .mobile__table-list {
@@ -2202,19 +2202,19 @@ tbody tr:nth-child(odd) {
 
 @supports (-webkit-appearance: none) {
   .navigation__search {
-    background-image: url("imgs/search.svg") no-repeat right 0.625rem center;
+    background-image: url("/imgs/search.svg") no-repeat right 0.625rem center;
   }
 
   .navigation__search:nth-child(2) {
-    background-image: url("imgs/lang.svg") no-repeat right 0.625rem center;
+    background-image: url("/imgs/lang.svg") no-repeat right 0.625rem center;
   }
 
   .quotes__select-nav {
-    background: url(imgs/arrows-select.svg) no-repeat right 0.625rem center;
+    background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
   }
 
   .mobile__table-select {
-    background: url(imgs/arrows-select.svg) no-repeat right 0.625rem center;
+    background: url(/imgs/arrows-select.svg) no-repeat right 0.625rem center;
   }
 }
 
